@@ -1,4 +1,4 @@
 s3keys.txt
 .htaccess
-assets/amazon-s3/handlers/s3/s3keys.php/
-assets/amazon-s3/handlers/mail.php/
+assets/amazon-s3/handlers/mail.php
+assets/amazon-s3/handlers/s3/s3keys.php
